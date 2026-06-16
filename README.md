@@ -1,7 +1,6 @@
-# ISO-_27001_TechSolutions
 # 🛡️ Manual de Gestión de Seguridad de la Información (SGSI) - TechSolutions (ISO/IEC 27001)
 
-Este repositorio contiene un modelo práctico y didáctico de un **Manual de Sistema de Gestión de Seguridad de la Información (SGSI)** basado en la norma internacional **ISO/IEC 27001:2022**[cite: 2, 3]. Está diseñado tomando como escenario a **TechSolutions**, una empresa ficticia de soporte técnico y comercio tecnológico con operaciones locales distribuidas[cite: 1, 2].
+Este repositorio contiene un modelo práctico y didáctico de un **Manual de Sistema de Gestión de Seguridad de la Información (SGSI)** basado en la norma internacional **ISO/IEC 27001:2022**[cite: 2, 3]. Está diseñado tomando como escenario a **TechSolutions**, una empresa de soporte técnico y comercio tecnológico con operaciones locales distribuidas[cite: 1, 2].
 
 El propósito principal de este proyecto es servir como **guía de orientación y plantilla base** para estudiantes, analistas y profesionales que están iniciando en el mundo del gobierno de TI y la seguridad de la información, demostrando de forma tangible cómo aplicar normativas internacionales en infraestructuras y negocios de escala pequeña o mediana[cite: 1, 2].
 
@@ -24,9 +23,11 @@ El documento desarrollado incluye un desglose paso a paso alineado con las cláu
 
 Este documento fue creado ante la necesidad de proveer un recurso educativo abierto. A menudo, la documentación de la norma ISO 27001 puede tornarse muy teórica; este repositorio busca romper esa brecha ofreciendo un enfoque práctico que explica y diferencia las necesidades de las dependencias en que los activos puedan incurrir y cómo cubrir sus potenciales riesgos en un entorno operativo real[cite: 1, 2].
 
-Está pensado para ayudarte a:
+Para el desarrollo completo de la infraestructura corporativa de TechSolutions, las sucursales y la categorización de criticidad, se utilizó como base y guía el documento **"Activos de Información.docx"**[cite: 1]. Este archivo proporciona el inventario en bruto que permitió estructurar la matriz de riesgos del proyecto[cite: 1].
+
+El manual está pensado para ayudarte a:
 * Entender cómo estructurar un manual de seguridad desde cero[cite: 2].
-* Aprender a clasificar activos según su criticidad operativa[cite: 1].
+* Aprender a clasificar activos según su criticidad operativa utilizando guías prácticas de inventariado como **"Activos de Información.docx"**[cite: 1].
 * Visualizar la convergencia de múltiples marcos de control (ISO, NIST, SOC 2, ITIL, COBIT) en un solo ecosistema empresarial[cite: 3].
 
 ---
@@ -34,7 +35,7 @@ Está pensado para ayudarte a:
 ## 🛠️ Cómo Utilizar este Repositorio
 
 1. **Exploración:** Podés leer el archivo del Manual del SGSI directamente desde la raíz del repositorio o descargarlo en formato compatible con tu procesador de textos de preferencia para su estudio fuera de línea.
-2. **Adaptación:** Si estás trabajando con una PyME o un comercio local similar, utilizá este manual como línea base (límites de red, políticas de contraseñas, análisis de riesgos) y adaptá las cantidades y flujos lógicos a la realidad de tu cliente[cite: 1].
+2. **Adaptación:** Si estás trabajando con una PyME o un comercio local similar, utilizá este manual y el documento de referencia **"Activos de Información.docx"** como línea base (límites de red, políticas de contraseñas, análisis de riesgos) y adaptá las cantidades y flujos lógicos a la realidad de tu cliente[cite: 1].
 3. **Contribuciones:** ¡La seguridad la construimos en comunidad! Si encontrás oportunidades de mejora en la redacción, matrices o controles, sentite libre de abrir un *Issue* o enviar un *Pull Request*.
 
 ---
